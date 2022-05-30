@@ -26,4 +26,4 @@ See [Wikipedia::Babel](https://en.wikipedia.org/wiki/Wikipedia:Babel) for langua
 ### Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yixuan-wang&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixuan-wang&theme=graywhite&hide_border=true&count_private=true&hide=css,html&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixuan-wang&theme=graywhite&hide_border=true&count_private=true&hide=css,html&layout=compact">
