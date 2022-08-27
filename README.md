@@ -1,5 +1,5 @@
 ## Yixuan Wang
-\[ji˥˩.ɕyɛn˥.waŋ˧˥]
+\[ji˥˩.ɕyɛn˥.wɑŋ˧˥]
 
 - 🎓 <del>Un</del>computational <del>Non-</del>linguistics undergraduate @ PKU
 - 🔬 Research interests: Syntax & Semantics  
