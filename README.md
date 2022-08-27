@@ -20,7 +20,7 @@
 See [Wikipedia::Babel](https://en.wikipedia.org/wiki/Wikipedia:Babel) for language levels.
 
 ![mandarin chinese](https://img.shields.io/badge/Mandarin%20Chinese-N-6ef7a7?style=flat)
-![english](https://img.shields.io/badge/English-3-77e0e8?style=flat)
+![english](https://img.shields.io/badge/English-3-99b3ff?style=flat)
 
 
 ### Stats
