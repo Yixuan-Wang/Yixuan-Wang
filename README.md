@@ -1,11 +1,13 @@
 ## Yixuan Wang
 \[ji˥˩.ɕyɛn˥.wɑŋ˧˥]
 
-- 🎓 <del>Un</del>computational <del>Non-</del>linguistics undergraduate @ PKU
-- 🔬 Research interests: Syntax & Semantics  
-- ⚗️ Hobby interests: Web Frontend & PL
+- 🎓 <del>Un</del>happy <del>dis</del>computational <del>non-</del>linguistics undergraduate @ PKU
+- 🔬 Research interests: **syntax** & **semantics** & NLP
+- ⚗️ Hobby interests: web frontend & programming languages
 
 ### Programming Languages
+
+Use Python for *work*, TypeScript for *entertainment* and Rust for <del>enlightenment</del>.
 
 ![python](https://img.shields.io/badge/-python-3776ab?logo=python&style=flat&logoColor=white&link=https://www.python.org/)
 ![rust](https://img.shields.io/badge/-rust-f46623?logo=rust&style=flat&logoColor=white&link=https://www.rust-lang.org/)
@@ -21,7 +23,7 @@ See [Wikipedia::Babel](https://en.wikipedia.org/wiki/Wikipedia:Babel) for langua
 
 ![mandarin chinese](https://img.shields.io/badge/Mandarin%20Chinese-N-6ef7a7?style=flat)
 ![english](https://img.shields.io/badge/English-3-99b3ff?style=flat)
-
+![japanese](https://img.shields.io/badge/Japanese-1-ffbbbb?style=flat)
 
 ### Stats
 
