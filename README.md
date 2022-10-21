@@ -1,8 +1,8 @@
 ## Yixuan Wang
 \[ji˥˩.ɕyɛn˥.wɑŋ˧˥]
 
-- 🎓 <del>Un</del>happy <del>dis</del>computational <del>non-</del>linguistics undergraduate @ PKU
-- 🔬 Research interests: **syntax** & **semantics** & NLP
+- 🎓 <del>Un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ PKU
+- 🔬 Research interests: computational syntax & semantics, NLP
 - ⚗️ Hobby interests: web frontend & programming languages
 
 ### Programming Languages
@@ -11,8 +11,8 @@ Use Python for *work*, TypeScript for *entertainment* and Rust for <del>enlighte
 
 ![python](https://img.shields.io/badge/-python-3776ab?logo=python&style=flat&logoColor=white&link=https://www.python.org/)
 ![rust](https://img.shields.io/badge/-rust-f46623?logo=rust&style=flat&logoColor=white&link=https://www.rust-lang.org/)
-![javascript](https://img.shields.io/badge/-javascript-f7df1e?logo=javascript&style=flat&logoColor=black)
 ![typescript](https://img.shields.io/badge/-typescript-3178c6?logo=typescript&style=flat&logoColor=white&link=https://www.typescriptlang.org/)
+![javascript](https://img.shields.io/badge/-javascript-f7df1e?logo=javascript&style=flat&logoColor=black)
 ![cpp](https://img.shields.io/badge/-cpp-00599C?logo=cplusplus&style=flat&logoColor=white&link=https://isocpp.org/)
 ![java](https://img.shields.io/badge/-java-c52158?logo=openjdk&style=flat&logoColor=white&link=https://adoptium.net/)
 ![golang](https://img.shields.io/badge/-go-50b7e0?logo=go&style=flat&logoColor=white&link=https://go.dev/)
@@ -24,6 +24,7 @@ See [Wikipedia::Babel](https://en.wikipedia.org/wiki/Wikipedia:Babel) for langua
 ![mandarin chinese](https://img.shields.io/badge/Mandarin%20Chinese-N-6ef7a7?style=flat)
 ![english](https://img.shields.io/badge/English-3-99b3ff?style=flat)
 ![japanese](https://img.shields.io/badge/Japanese-1-ffbbbb?style=flat)
+![deutsch](https://img.shields.io/badge/Deutsch-1-ffbbbb?style=flat)
 
 ### Stats
 
