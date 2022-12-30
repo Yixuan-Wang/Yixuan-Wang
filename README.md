@@ -1,9 +1,9 @@
 ## Yixuan Wang
 \[ji˥˩.ɕyɛn˥.wɑŋ˧˥]
 
-- 🎓 <del>Un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ PKU
-- 🔬 Research interests: computational syntax & semantics, NLP
-- ⚗️ Hobby interests: web frontend & programming languages
+- 🎓 <del>Un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ Peking Univ.
+- 🔬 research interests: computational psycho-linguistics | syntax & semantics | NLP(roc)
+- ⚗️ hobby interests: web frontend | programming languages
 
 ### Programming Languages
 
@@ -22,7 +22,7 @@ Use Python for *work*, TypeScript for *entertainment* and Rust for <del>enlighte
 See [Wikipedia::Babel](https://en.wikipedia.org/wiki/Wikipedia:Babel) for language levels.
 
 ![mandarin chinese](https://img.shields.io/badge/Mandarin%20Chinese-N-6ef7a7?style=flat)
-![english](https://img.shields.io/badge/English-3-99b3ff?style=flat)
+![english](https://img.shields.io/badge/English-4-77e0e8?style=flat)
 ![japanese](https://img.shields.io/badge/Japanese-1-ffbbbb?style=flat)
 ![deutsch](https://img.shields.io/badge/Deutsch-1-ffbbbb?style=flat)
 
