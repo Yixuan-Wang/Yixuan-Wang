@@ -1,7 +1,7 @@
 ## Yixuan Wang
 \[ji˥˩.ɕyɛn˥.wɑŋ˧˥]
 
-- 🎓 <del>Un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ Peking Univ.
+- 🎓 <del>un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ Peking Univ.
 - 🔬 research interests: computational psycho-linguistics | syntax & semantics | NLP(roc)
 - ⚗️ hobby interests: web frontend | programming languages
 
