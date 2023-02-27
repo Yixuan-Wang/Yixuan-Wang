@@ -1,5 +1,5 @@
 ## Yixuan Wang
-\[ji˥˩.ɕyɛn˥.wɑŋ˧˥]
+\[ji˥˩.ɕyɛn˥.wɑŋ˧˥] | 王奕轩
 
 - 🎓 <del>un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ Peking Univ.
 - 🔬 research interests: computational psycho-linguistics | syntax & semantics | NLP(roc)
@@ -13,9 +13,16 @@ Use Python for *work*, TypeScript for *entertainment* and Rust for <del>enlighte
 ![rust](https://img.shields.io/badge/-rust-f46623?logo=rust&style=flat&logoColor=white&link=https://www.rust-lang.org/)
 ![typescript](https://img.shields.io/badge/-typescript-3178c6?logo=typescript&style=flat&logoColor=white&link=https://www.typescriptlang.org/)
 ![javascript](https://img.shields.io/badge/-javascript-f7df1e?logo=javascript&style=flat&logoColor=black)
-![cpp](https://img.shields.io/badge/-cpp-00599C?logo=cplusplus&style=flat&logoColor=white&link=https://isocpp.org/)
-![java](https://img.shields.io/badge/-java-c52158?logo=openjdk&style=flat&logoColor=white&link=https://adoptium.net/)
-![golang](https://img.shields.io/badge/-go-50b7e0?logo=go&style=flat&logoColor=white&link=https://go.dev/)
+
+<details>
+  <summary>Other...</summary>
+  <p></p>
+  <p>
+    <img alt="cpp" src="https://img.shields.io/badge/-cpp-00599C?logo=cplusplus&style=flat&logoColor=white&link=https://isocpp.org/">
+    <img alt="java" src="https://img.shields.io/badge/-java-c52158?logo=openjdk&style=flat&logoColor=white&link=https://adoptium.net/">
+    <img alt="go" src="https://img.shields.io/badge/-go-50b7e0?logo=go&style=flat&logoColor=white&link=https://go.dev/">
+  </p>
+</details>
 
 ### Languages
 
@@ -23,8 +30,15 @@ See [Wikipedia::Babel](https://en.wikipedia.org/wiki/Wikipedia:Babel) for langua
 
 ![mandarin chinese](https://img.shields.io/badge/Mandarin%20Chinese-N-6ef7a7?style=flat)
 ![english](https://img.shields.io/badge/English-4-77e0e8?style=flat)
-![japanese](https://img.shields.io/badge/Japanese-1-ffbbbb?style=flat)
-![deutsch](https://img.shields.io/badge/Deutsch-1-ffbbbb?style=flat)
+
+<details>
+  <summary>Other...</summary>
+  <p></p>
+  <p>
+    <img alt="japanese" src="https://img.shields.io/badge/Japanese-1-ffbbbb?style=flat">
+    <img alt="deutsch" src="https://img.shields.io/badge/Deutsch-1-ffbbbb?style=flat">
+  </p>
+</details>
 
 ### Stats
 
