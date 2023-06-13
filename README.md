@@ -1,9 +1,9 @@
 ## Yixuan Wang
 \[ji˥˩.ɕyɛn˥.wɑŋ˧˥] | 王奕轩
 
-- 🎓 <del>un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ Peking Univ.
-- 🔬 research interests: computational psycho-linguistics | syntax & semantics | NLP(roc)
-- ⚗️ hobby interests: web frontend | programming languages
+- 🎓 Incoming Master student on NLP (<del>naive LLM prompting</del>) @ UChicago. Outgoing <del>un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ Peking Univ. 
+- 🔬 research interests: NLP | computational linguistics
+- ⚗️ hobby interests: web frontend | UI/UX | programming languages
 
 ### Programming Languages
 
@@ -26,21 +26,14 @@ Use Python for *work*, TypeScript for *entertainment* and Rust for <del>enlighte
 
 ### Languages
 
-See [Wikipedia::Babel](https://en.wikipedia.org/wiki/Wikipedia:Babel) for language levels.
-
-![mandarin chinese](https://img.shields.io/badge/Mandarin%20Chinese-N-6ef7a7?style=flat)
-![english](https://img.shields.io/badge/English-4-77e0e8?style=flat)
-
-<details>
-  <summary>Other...</summary>
-  <p></p>
-  <p>
-    <img alt="japanese" src="https://img.shields.io/badge/Japanese-1-ffbbbb?style=flat">
-    <img alt="deutsch" src="https://img.shields.io/badge/Deutsch-1-ffbbbb?style=flat">
-  </p>
-</details>
+![mandarin chinese](https://img.shields.io/badge/cmn-N-6ef7a7?style=flat)
+![english](https://img.shields.io/badge/eng-4-77e0e8?style=flat)
+![japanese](https://img.shields.io/badge/jpn-1-e0c0e0?style=flat)
+![deutsch](https://img.shields.io/badge/deu-1-e0c0e0?style=flat)
 
 ### Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yixuan-wang&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true">
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yixuan-wang&hide_rank=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixuan-wang&theme=graywhite&hide_border=true&count_private=true&hide=css,html&layout=compact">
