@@ -1,9 +1,9 @@
 ## Yixuan Wang
 \[ji˥˩.ɕyɛn˥.wɑŋ˧˥] | 王奕轩
 
-- 🎓 Incoming Master student on NLP (<del>naive LLM prompting</del>) @ UChicago. Outgoing <del>un</del>happy <del>dis</del>computational <del>non-</del>linguistics under~~do~~graduate @ Peking Univ. 
-- 🔬 research interests: NLP | computational linguistics
-- ⚗️ hobby interests: web frontend | UI/UX | programming languages
+- 🎓 Master student `@` UChicago. Previously `@` Peking Univ. 
+- 🔬 Research on NLP (<del>naive LLM prompting</del>) `+` Computational Linguistics
+- ⚗️ Playing with PL (programming languages) `|` software development `|` web frontend
 
 ### Programming Languages
 
@@ -13,16 +13,10 @@ Use Python for *work*, TypeScript for *entertainment* and Rust for <del>enlighte
 ![rust](https://img.shields.io/badge/-rust-f46623?logo=rust&style=flat&logoColor=white&link=https://www.rust-lang.org/)
 ![typescript](https://img.shields.io/badge/-typescript-3178c6?logo=typescript&style=flat&logoColor=white&link=https://www.typescriptlang.org/)
 ![javascript](https://img.shields.io/badge/-javascript-f7df1e?logo=javascript&style=flat&logoColor=black)
-
-<details>
-  <summary>Other...</summary>
-  <p></p>
-  <p>
-    <img alt="cpp" src="https://img.shields.io/badge/-cpp-00599C?logo=cplusplus&style=flat&logoColor=white&link=https://isocpp.org/">
-    <img alt="java" src="https://img.shields.io/badge/-java-c52158?logo=openjdk&style=flat&logoColor=white&link=https://adoptium.net/">
-    <img alt="go" src="https://img.shields.io/badge/-go-50b7e0?logo=go&style=flat&logoColor=white&link=https://go.dev/">
-  </p>
-</details>
+![cpp](https://img.shields.io/badge/-cpp-00599C?logo=cplusplus&style=flat&logoColor=white&link=https://isocpp.org/)
+![java](https://img.shields.io/badge/-java-c52158?logo=openjdk&style=flat&logoColor=white&link=https://adoptium.net/)
+![go](https://img.shields.io/badge/-go-50b7e0?logo=go&style=flat&logoColor=white&link=https://go.dev/)
+![haskell](https://img.shields.io/badge/-haskell-5e5086?logo=haskell&style=flat&logoColor=white&link=https://www.haskell.org/)
 
 ### Languages
 
