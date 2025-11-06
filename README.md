@@ -1,7 +1,7 @@
-# Yixuan Wang
-\[ji˥˩.ɕyɛn˥.wɑŋ˧˥] | 王奕轩
+# Yixuan WANG
+\[ji˥˩.ɕyɛn˥.wɑŋ˧˥] | **王**奕轩
 
-- 🎓 Incoming PhD @ <a href="https://cs.uwaterloo.ca">UWaterloo</a> <a href="https://github.com/compling-wat">CompLING</a>. Previously [Peking Univ](https://pku.edu.cn) and [UChicago](https://uchicago.edu). 
+- 🎓 First year PhD student @ <a href="https://cs.uwaterloo.ca">UWaterloo</a> <a href="https://github.com/compling-wat">CompLING</a>. Previously [Peking Univ](https://pku.edu.cn) and [UChicago](https://uchicago.edu). 
 - 🔬 Research on **NLP** (<del>naive LLM prompting</del>) and **computational linguistics**
 - ⚗️ Playing with programming languages and web development
 
